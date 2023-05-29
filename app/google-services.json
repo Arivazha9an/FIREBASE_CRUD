@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20401724007",
+    "firebase_url": "https://fireview-640c6-default-rtdb.firebaseio.com",
+    "project_id": "fireview-640c6",
+    "storage_bucket": "fireview-640c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20401724007:android:c13240741778235a63d2c2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20401724007-15td4pitaqrifh749lt7mb07lqjbtkc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNWk70aFPYUei90tE4IyD8vT3wXKz3ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20401724007-15td4pitaqrifh749lt7mb07lqjbtkc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
